@@ -5,3 +5,4 @@ American Society for Microsoft, Infection and Immunity. [Paper Link:](https://ww
 Georgia State University, Atlanta, United States of America (USA).
 https://csds.gsu.edu/
 selected function(lapply, Reduce, merge).
+Hemoglobin stimulates vigorous growth of Streptococcus pneumoniae and shapes the pathogen's global transcriptome, Fahmina Akhter, Edroyal Womack, Jorge E. Vidal, Yoann Le Breton, Kevin S. McIver, Shrikant Pawar & Eichenbaum Zehava, Publication: Nature Publishing Group: Scientific Reports (Publication date: September 15), collaboration with Dr. Eichenbaum, Georgia State University, Atlanta, USA, IF=4.9, Github, Article link, [Cited times: 7]^^^ DOI: 10.1038/s41598-020-71910-1, Issue: 1, Volume: 10, Pages: 15202.
